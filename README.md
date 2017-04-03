@@ -1,9 +1,6 @@
-# AspNetCoreAzureAD
-ASP.NET Core Web Application using Azure Active Directory as Authentication. 
-
 # ASP.NET Core Azure Active Directory
 
-ASP.NET Core with Azure Active Directory Authentication. 
+ASP.NET Core web application using Azure Active Directory Authentication. 
 
 ***Requirement:*** *Visual Studio 2017*
 
